@@ -1,1 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
 
+body {
+  background-color: #546E7A;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-family: "HomemadeApple-Regular.ttf";
+}
+
+/* quesitons-
+how do i connect githbu to this repository and see changes to the site in real times
+using css- how to change font and color empty-cells
+overall does my code look ok
+in the future he should show a general how to video of these prjects or at least Examples */
