@@ -1,17 +1,49 @@
 @import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
 
+/* title {add newspaper text} */
+h1 {
+text-align: center;
+font-size: 500%;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+  font-family: 'Homemade Apple',cursive;
+
+}
 body {
   background-color: #546E7A;
 }
 
 p {
+  margin-left: auto;
+  margin-right: auto;
   color: white;
   text-align: center;
-  font-family: "HomemadeApple-Regular.ttf";
+  font-family: 'Homemade Apple',cursive;
+  font-size: 200%
 }
 
-/* quesitons-
-how do i connect githbu to this repository and see changes to the site in real times
-using css- how to change font and color empty-cells
-overall does my code look ok
-in the future he should show a general how to video of these prjects or at least Examples */
+img {
+   margin-left: auto;
+  margin-right: auto;
+ text-align: center;
+  display: block;
+  width: 50%;
+   /* height:150px;
+  overflow: hidden; */
+}
+
+  a {
+  color:white;
+  text-decoration: none;
+}
+
+/* .crop {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 200px;
+  height:200px;
+  object-fit: cover;
+  display: block;
+} */
